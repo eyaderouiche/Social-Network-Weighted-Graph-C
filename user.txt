@@ -1,0 +1,42 @@
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35
+R 0 1 10 # salim hana 
+R 3 4 2 # nina jad
+R 5 3 3 # omar nina
+R 2 3 7 # lina nina
+R 2 5 1 # lina omar
+R 2 1 10 # lina hana
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35
+U 0 salim 25
+U 1 hana 30
+U 2 lina 22
+U 3 nina 28
+U 4 jad 35
+U 5 omar 35

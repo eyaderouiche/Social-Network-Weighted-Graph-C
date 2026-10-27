@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1744542946 source:c:\users\eyade\onedrive\bureau\eyaaa\projet eya derouiche et eya ben ayed\projet\projet2\projet\eltuser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTUSER.h"
+
+1744543011 c:\users\eyade\onedrive\bureau\eyaaa\projet eya derouiche et eya ben ayed\projet\projet2\projet\eltuser.h
+
+1744551302 source:c:\users\eyade\onedrive\bureau\eyaaa\projet eya derouiche et eya ben ayed\projet\projet2\projet\graphe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphe.h"
+
+1744545034 c:\users\eyade\onedrive\bureau\eyaaa\projet eya derouiche et eya ben ayed\projet\projet2\projet\graphe.h
+	"ELTUSER.h"
+
+1744544572 source:c:\users\eyade\onedrive\bureau\eyaaa\projet eya derouiche et eya ben ayed\projet\projet2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTUSER.h"
+	"graphe.h"
+
+1744542946 source:c:\users\eyade\onedrive\bureau\eyaaa\projet asd2\projet\eltuser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTUSER.h"
+
+1745142957 c:\users\eyade\onedrive\bureau\eyaaa\projet asd2\projet\eltuser.h
+
+1746793711 source:c:\users\eyade\onedrive\bureau\eyaaa\projet asd2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTUSER.h"
+	"graphe.h"
+	<stdio.h>
+	<limits.h>
+
+1745259118 c:\users\eyade\onedrive\bureau\eyaaa\projet asd2\projet\graphe.h
+	"ELTUSER.h"
+
+1746795198 source:c:\users\eyade\onedrive\bureau\eyaaa\projet asd2\projet\graphe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphe.h"
+	"ELTUSER.h"
+	<stdio.h>
+	<limits.h>
+
